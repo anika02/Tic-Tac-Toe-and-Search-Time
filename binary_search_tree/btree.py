@@ -4,7 +4,7 @@ Author: Ken Lambert
 """
 
 from binary_search_tree.abstractcollection import AbstractCollection
-from binary_search_tree.bstnode import BSTNode
+from binary_search_tree.btnode import BSTNode
 from binary_search_tree.linkedstack import LinkedStack
 from binary_search_tree.linkedqueue import LinkedQueue
 from math import log

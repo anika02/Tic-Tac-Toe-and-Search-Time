@@ -1,6 +1,6 @@
 import random
 import time
-from binary_search_tree.linkedbst import LinkedBST
+from binary_search_tree.btree import LinkedBST
 
 
 def read_file(file_name):

@@ -1,7 +1,7 @@
 import random
 import copy
-from binary_search_tree.bstnode import BSTNode
-from binary_search_tree.linkedbst import LinkedBST
+from binary_search_tree.btnode import BSTNode
+from binary_search_tree.btree import LinkedBST
 
 
 class Board:
